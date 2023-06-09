@@ -1,13 +1,23 @@
+
+
+body{
+    background-image: url(../source/fondo.jpg)
+    
+    
+}
+
 div{
-    background-color: rgb(163, 35, 35);
+    background-color: rgb(167, 151, 29);
     font-size: 80px;
     color: black;
 }
 
-body{
-    background-image: url(../source/fondo.jpg)
-}
+section{
+    background-color: rgba(26, 175, 61, 0.873);
+    font-size: 80px;
+    color: black;
 
+}
 
 .imagenes{
     box-shadow: 10px 10px 15px;
