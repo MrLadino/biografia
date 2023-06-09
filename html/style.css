@@ -1,0 +1,15 @@
+div{
+    background-color: rgb(163, 35, 35);
+    font-size: 80px;
+    color: black;
+}
+
+body{
+    background-image: url(../source/fondo.jpg)
+}
+
+
+.imagenes{
+    box-shadow: 10px 10px 15px;
+    border-radius: 10px;
+}
