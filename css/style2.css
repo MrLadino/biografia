@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(230, 190, 190, 0.929);
+    font-size: 20px;
+    text-align: center;
+    border: double;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+h1 {
+    background-color: rgba(195, 147, 147, 0.929);
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.imagen {
+    margin-top: 70px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
